@@ -2,7 +2,7 @@
 // of a mathematical function
 // Author: june(github.com/juuneli)
 
-#include "bisection-method.h"
+#include "../bisection-method.h"
 
 #include <stdio.h>
 #include <stdlib.h>
